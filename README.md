@@ -1,2 +1,2 @@
-# Unityclase_basic
-Repositorio utilizado para la clase de unity basico y construir los ejercicios de clase para hacer juegos, curso universidad pedagogica 
+# first_game_unity_basic
+este proyecto es usado como ejemplo de clase, en el curso unity basic 
